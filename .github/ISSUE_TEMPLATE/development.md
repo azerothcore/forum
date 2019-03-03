@@ -1,6 +1,6 @@
 ---
 name: Development
-about: Anything related to development. Topics like: what is your favourite IDE? How do you debug AC? What DB client do you use?
+about: Anything related to development. 
 title: "[DEV]"
 labels: development
 assignees: ''
