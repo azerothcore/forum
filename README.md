@@ -1,9 +1,6 @@
-# AzerothCore Forum
-This repo will be used only for generic discussions about AzerothCore project and its Modules and Tools
+# AzerothCore Forum (ARCHIVED)
 
-* [ALL POSTS](https://github.com/azerothcore/forum/issues)
-* [CATEGORIES](https://github.com/azerothcore/forum/labels)
-* [NEW TOPIC](https://github.com/azerothcore/forum/issues/new/choose)
+This forum has been archived in favour of [AzerothCore GitHub Discussions](https://github.com/azerothcore/azerothcore-wotlk/discussions)
 
 ## What about support requests?
 
